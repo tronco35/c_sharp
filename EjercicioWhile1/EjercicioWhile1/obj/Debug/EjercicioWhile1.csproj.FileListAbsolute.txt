@@ -1,0 +1,7 @@
+C:\Users\Administrador\source\repos\EjercicioWhile1\EjercicioWhile1\bin\Debug\EjercicioWhile1.exe.config
+C:\Users\Administrador\source\repos\EjercicioWhile1\EjercicioWhile1\bin\Debug\EjercicioWhile1.exe
+C:\Users\Administrador\source\repos\EjercicioWhile1\EjercicioWhile1\bin\Debug\EjercicioWhile1.pdb
+C:\Users\Administrador\source\repos\EjercicioWhile1\EjercicioWhile1\obj\Debug\EjercicioWhile1.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\EjercicioWhile1\EjercicioWhile1\obj\Debug\EjercicioWhile1.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\EjercicioWhile1\EjercicioWhile1\obj\Debug\EjercicioWhile1.exe
+C:\Users\Administrador\source\repos\EjercicioWhile1\EjercicioWhile1\obj\Debug\EjercicioWhile1.pdb

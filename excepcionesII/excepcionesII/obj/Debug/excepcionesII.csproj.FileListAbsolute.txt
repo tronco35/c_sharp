@@ -1,0 +1,6 @@
+C:\Users\Administrador\source\repos\excepcionesII\excepcionesII\bin\Debug\excepcionesII.exe.config
+C:\Users\Administrador\source\repos\excepcionesII\excepcionesII\bin\Debug\excepcionesII.exe
+C:\Users\Administrador\source\repos\excepcionesII\excepcionesII\bin\Debug\excepcionesII.pdb
+C:\Users\Administrador\source\repos\excepcionesII\excepcionesII\obj\Debug\excepcionesII.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\excepcionesII\excepcionesII\obj\Debug\excepcionesII.exe
+C:\Users\Administrador\source\repos\excepcionesII\excepcionesII\obj\Debug\excepcionesII.pdb

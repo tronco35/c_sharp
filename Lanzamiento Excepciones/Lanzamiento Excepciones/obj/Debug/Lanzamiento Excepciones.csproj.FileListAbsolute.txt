@@ -1,0 +1,7 @@
+C:\Users\Administrador\source\repos\Lanzamiento Excepciones\Lanzamiento Excepciones\bin\Debug\Lanzamiento Excepciones.exe.config
+C:\Users\Administrador\source\repos\Lanzamiento Excepciones\Lanzamiento Excepciones\bin\Debug\Lanzamiento Excepciones.exe
+C:\Users\Administrador\source\repos\Lanzamiento Excepciones\Lanzamiento Excepciones\bin\Debug\Lanzamiento Excepciones.pdb
+C:\Users\Administrador\source\repos\Lanzamiento Excepciones\Lanzamiento Excepciones\obj\Debug\Lanzamiento Excepciones.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\Lanzamiento Excepciones\Lanzamiento Excepciones\obj\Debug\Lanzamiento Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Lanzamiento Excepciones\Lanzamiento Excepciones\obj\Debug\Lanzamiento Excepciones.exe
+C:\Users\Administrador\source\repos\Lanzamiento Excepciones\Lanzamiento Excepciones\obj\Debug\Lanzamiento Excepciones.pdb

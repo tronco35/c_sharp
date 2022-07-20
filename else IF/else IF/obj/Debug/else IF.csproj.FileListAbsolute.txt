@@ -1,0 +1,7 @@
+C:\Users\Administrador\source\repos\else IF\else IF\bin\Debug\else IF.exe.config
+C:\Users\Administrador\source\repos\else IF\else IF\bin\Debug\else IF.exe
+C:\Users\Administrador\source\repos\else IF\else IF\bin\Debug\else IF.pdb
+C:\Users\Administrador\source\repos\else IF\else IF\obj\Debug\else IF.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\else IF\else IF\obj\Debug\else IF.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\else IF\else IF\obj\Debug\else IF.exe
+C:\Users\Administrador\source\repos\else IF\else IF\obj\Debug\else IF.pdb

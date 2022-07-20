@@ -1,0 +1,7 @@
+C:\Users\Administrador\source\repos\UsoFInally\UsoFInally\obj\Debug\UsoFInally.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\UsoFInally\UsoFInally\obj\Debug\UsoFInally.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\UsoFInally\UsoFInally\bin\Debug\UsoFInally.exe.config
+C:\Users\Administrador\source\repos\UsoFInally\UsoFInally\bin\Debug\UsoFInally.exe
+C:\Users\Administrador\source\repos\UsoFInally\UsoFInally\bin\Debug\UsoFInally.pdb
+C:\Users\Administrador\source\repos\UsoFInally\UsoFInally\obj\Debug\UsoFInally.exe
+C:\Users\Administrador\source\repos\UsoFInally\UsoFInally\obj\Debug\UsoFInally.pdb

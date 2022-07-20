@@ -1,0 +1,7 @@
+C:\Users\Administrador\source\repos\EjemploPOO\EjemploPOO\bin\Debug\EjemploPOO.exe.config
+C:\Users\Administrador\source\repos\EjemploPOO\EjemploPOO\bin\Debug\EjemploPOO.exe
+C:\Users\Administrador\source\repos\EjemploPOO\EjemploPOO\bin\Debug\EjemploPOO.pdb
+C:\Users\Administrador\source\repos\EjemploPOO\EjemploPOO\obj\Debug\EjemploPOO.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\EjemploPOO\EjemploPOO\obj\Debug\EjemploPOO.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\EjemploPOO\EjemploPOO\obj\Debug\EjemploPOO.exe
+C:\Users\Administrador\source\repos\EjemploPOO\EjemploPOO\obj\Debug\EjemploPOO.pdb

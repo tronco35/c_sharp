@@ -1,0 +1,14 @@
+C:\Users\Administrador\source\repos\ArrayImplecito\ArrayImplecito\bin\Debug\ArrayImplecito.exe.config
+C:\Users\Administrador\source\repos\ArrayImplecito\ArrayImplecito\bin\Debug\ArrayImplecito.exe
+C:\Users\Administrador\source\repos\ArrayImplecito\ArrayImplecito\bin\Debug\ArrayImplecito.pdb
+C:\Users\Administrador\source\repos\ArrayImplecito\ArrayImplecito\obj\Debug\ArrayImplecito.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\ArrayImplecito\ArrayImplecito\obj\Debug\ArrayImplecito.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\ArrayImplecito\ArrayImplecito\obj\Debug\ArrayImplecito.exe
+C:\Users\Administrador\source\repos\ArrayImplecito\ArrayImplecito\obj\Debug\ArrayImplecito.pdb
+C:\Users\Administrador\source\repos\BucleFOR\ArrayImplecito\bin\Debug\ArrayImplecito.exe.config
+C:\Users\Administrador\source\repos\BucleFOR\ArrayImplecito\bin\Debug\ArrayImplecito.exe
+C:\Users\Administrador\source\repos\BucleFOR\ArrayImplecito\bin\Debug\ArrayImplecito.pdb
+C:\Users\Administrador\source\repos\BucleFOR\ArrayImplecito\obj\Debug\ArrayImplecito.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\BucleFOR\ArrayImplecito\obj\Debug\ArrayImplecito.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\BucleFOR\ArrayImplecito\obj\Debug\ArrayImplecito.exe
+C:\Users\Administrador\source\repos\BucleFOR\ArrayImplecito\obj\Debug\ArrayImplecito.pdb

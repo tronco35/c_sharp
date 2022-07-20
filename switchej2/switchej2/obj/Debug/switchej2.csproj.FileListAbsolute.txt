@@ -1,0 +1,6 @@
+C:\Users\Administrador\source\repos\switchej2\switchej2\obj\Debug\switchej2.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\switchej2\switchej2\bin\Debug\switchej2.exe.config
+C:\Users\Administrador\source\repos\switchej2\switchej2\bin\Debug\switchej2.exe
+C:\Users\Administrador\source\repos\switchej2\switchej2\bin\Debug\switchej2.pdb
+C:\Users\Administrador\source\repos\switchej2\switchej2\obj\Debug\switchej2.exe
+C:\Users\Administrador\source\repos\switchej2\switchej2\obj\Debug\switchej2.pdb

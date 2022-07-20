@@ -1,0 +1,6 @@
+C:\Users\Administrador\source\repos\excepcionesIII\excepcionesIII\bin\Debug\excepcionesIII.exe.config
+C:\Users\Administrador\source\repos\excepcionesIII\excepcionesIII\bin\Debug\excepcionesIII.exe
+C:\Users\Administrador\source\repos\excepcionesIII\excepcionesIII\bin\Debug\excepcionesIII.pdb
+C:\Users\Administrador\source\repos\excepcionesIII\excepcionesIII\obj\Debug\excepcionesIII.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\excepcionesIII\excepcionesIII\obj\Debug\excepcionesIII.exe
+C:\Users\Administrador\source\repos\excepcionesIII\excepcionesIII\obj\Debug\excepcionesIII.pdb

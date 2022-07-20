@@ -1,0 +1,21 @@
+C:\Users\Administrador\source\repos\ProyectoHerencia\ProyectoHerencia\bin\Debug\ProyectoHerencia.exe.config
+C:\Users\Administrador\source\repos\ProyectoHerencia\ProyectoHerencia\bin\Debug\ProyectoHerencia.exe
+C:\Users\Administrador\source\repos\ProyectoHerencia\ProyectoHerencia\bin\Debug\ProyectoHerencia.pdb
+C:\Users\Administrador\source\repos\ProyectoHerencia\ProyectoHerencia\obj\Debug\ProyectoHerencia.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\ProyectoHerencia\ProyectoHerencia\obj\Debug\ProyectoHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\ProyectoHerencia\ProyectoHerencia\obj\Debug\ProyectoHerencia.exe
+C:\Users\Administrador\source\repos\ProyectoHerencia\ProyectoHerencia\obj\Debug\ProyectoHerencia.pdb
+C:\Users\Administrador\source\repos\SustitucionPOrHerencia\ProyectoHerencia\bin\Debug\ProyectoHerencia.exe.config
+C:\Users\Administrador\source\repos\SustitucionPOrHerencia\ProyectoHerencia\bin\Debug\ProyectoHerencia.exe
+C:\Users\Administrador\source\repos\SustitucionPOrHerencia\ProyectoHerencia\bin\Debug\ProyectoHerencia.pdb
+C:\Users\Administrador\source\repos\SustitucionPOrHerencia\ProyectoHerencia\obj\Debug\ProyectoHerencia.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\SustitucionPOrHerencia\ProyectoHerencia\obj\Debug\ProyectoHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\SustitucionPOrHerencia\ProyectoHerencia\obj\Debug\ProyectoHerencia.exe
+C:\Users\Administrador\source\repos\SustitucionPOrHerencia\ProyectoHerencia\obj\Debug\ProyectoHerencia.pdb
+C:\Users\HenryTroncoso\OneDrive - Asesores en TICS y Software SAS\Visual\source\repos\Interfaces I. Vídeo 48\ProyectoHerencia\bin\Debug\ProyectoHerencia.exe.config
+C:\Users\HenryTroncoso\OneDrive - Asesores en TICS y Software SAS\Visual\source\repos\Interfaces I. Vídeo 48\ProyectoHerencia\bin\Debug\ProyectoHerencia.exe
+C:\Users\HenryTroncoso\OneDrive - Asesores en TICS y Software SAS\Visual\source\repos\Interfaces I. Vídeo 48\ProyectoHerencia\bin\Debug\ProyectoHerencia.pdb
+C:\Users\HenryTroncoso\OneDrive - Asesores en TICS y Software SAS\Visual\source\repos\Interfaces I. Vídeo 48\ProyectoHerencia\obj\Debug\ProyectoHerencia.csprojAssemblyReference.cache
+C:\Users\HenryTroncoso\OneDrive - Asesores en TICS y Software SAS\Visual\source\repos\Interfaces I. Vídeo 48\ProyectoHerencia\obj\Debug\ProyectoHerencia.csproj.CoreCompileInputs.cache
+C:\Users\HenryTroncoso\OneDrive - Asesores en TICS y Software SAS\Visual\source\repos\Interfaces I. Vídeo 48\ProyectoHerencia\obj\Debug\ProyectoHerencia.exe
+C:\Users\HenryTroncoso\OneDrive - Asesores en TICS y Software SAS\Visual\source\repos\Interfaces I. Vídeo 48\ProyectoHerencia\obj\Debug\ProyectoHerencia.pdb

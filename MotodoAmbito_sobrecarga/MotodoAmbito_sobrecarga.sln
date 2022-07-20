@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotodoAmbito_sobrecarga", "MotodoAmbito_sobrecarga\MotodoAmbito_sobrecarga.csproj", "{ABC2F473-9D65-4CE8-B617-D2EFFFC14B64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABC2F473-9D65-4CE8-B617-D2EFFFC14B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC2F473-9D65-4CE8-B617-D2EFFFC14B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC2F473-9D65-4CE8-B617-D2EFFFC14B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC2F473-9D65-4CE8-B617-D2EFFFC14B64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F3E2F4D-F0E0-469E-A54A-D39AD04E140A}
+	EndGlobalSection
+EndGlobal

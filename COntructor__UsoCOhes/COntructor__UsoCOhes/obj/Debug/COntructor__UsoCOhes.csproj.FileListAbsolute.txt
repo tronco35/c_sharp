@@ -1,0 +1,7 @@
+C:\Users\Administrador\source\repos\COntructor__UsoCOhes\COntructor__UsoCOhes\bin\Debug\COntructor__UsoCOhes.exe.config
+C:\Users\Administrador\source\repos\COntructor__UsoCOhes\COntructor__UsoCOhes\bin\Debug\COntructor__UsoCOhes.exe
+C:\Users\Administrador\source\repos\COntructor__UsoCOhes\COntructor__UsoCOhes\bin\Debug\COntructor__UsoCOhes.pdb
+C:\Users\Administrador\source\repos\COntructor__UsoCOhes\COntructor__UsoCOhes\obj\Debug\COntructor__UsoCOhes.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\COntructor__UsoCOhes\COntructor__UsoCOhes\obj\Debug\COntructor__UsoCOhes.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\COntructor__UsoCOhes\COntructor__UsoCOhes\obj\Debug\COntructor__UsoCOhes.exe
+C:\Users\Administrador\source\repos\COntructor__UsoCOhes\COntructor__UsoCOhes\obj\Debug\COntructor__UsoCOhes.pdb

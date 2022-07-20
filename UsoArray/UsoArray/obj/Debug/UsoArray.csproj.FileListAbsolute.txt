@@ -1,0 +1,7 @@
+C:\Users\Administrador\source\repos\UsoArray\UsoArray\bin\Debug\UsoArray.exe.config
+C:\Users\Administrador\source\repos\UsoArray\UsoArray\bin\Debug\UsoArray.exe
+C:\Users\Administrador\source\repos\UsoArray\UsoArray\bin\Debug\UsoArray.pdb
+C:\Users\Administrador\source\repos\UsoArray\UsoArray\obj\Debug\UsoArray.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\UsoArray\UsoArray\obj\Debug\UsoArray.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\UsoArray\UsoArray\obj\Debug\UsoArray.exe
+C:\Users\Administrador\source\repos\UsoArray\UsoArray\obj\Debug\UsoArray.pdb

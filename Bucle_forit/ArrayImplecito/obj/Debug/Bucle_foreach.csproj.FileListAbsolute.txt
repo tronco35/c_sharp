@@ -1,0 +1,14 @@
+C:\Users\Administrador\source\repos\Bucle_foreach\ArrayImplecito\bin\Debug\ArrayImplecito.exe.config
+C:\Users\Administrador\source\repos\Bucle_foreach\ArrayImplecito\bin\Debug\ArrayImplecito.exe
+C:\Users\Administrador\source\repos\Bucle_foreach\ArrayImplecito\bin\Debug\ArrayImplecito.pdb
+C:\Users\Administrador\source\repos\Bucle_foreach\ArrayImplecito\obj\Debug\Bucle_foreach.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\Bucle_foreach\ArrayImplecito\obj\Debug\Bucle_foreach.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Bucle_foreach\ArrayImplecito\obj\Debug\ArrayImplecito.exe
+C:\Users\Administrador\source\repos\Bucle_foreach\ArrayImplecito\obj\Debug\ArrayImplecito.pdb
+C:\Users\Administrador\source\repos\Bucle_forit\ArrayImplecito\bin\Debug\ArrayImplecito.exe.config
+C:\Users\Administrador\source\repos\Bucle_forit\ArrayImplecito\bin\Debug\ArrayImplecito.exe
+C:\Users\Administrador\source\repos\Bucle_forit\ArrayImplecito\bin\Debug\ArrayImplecito.pdb
+C:\Users\Administrador\source\repos\Bucle_forit\ArrayImplecito\obj\Debug\Bucle_foreach.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\Bucle_forit\ArrayImplecito\obj\Debug\Bucle_foreach.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Bucle_forit\ArrayImplecito\obj\Debug\ArrayImplecito.exe
+C:\Users\Administrador\source\repos\Bucle_forit\ArrayImplecito\obj\Debug\ArrayImplecito.pdb

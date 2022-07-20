@@ -1,0 +1,7 @@
+C:\Users\Administrador\source\repos\ConceptosPOO\ConceptosPOO\obj\Debug\ConceptosPOO.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\ConceptosPOO\ConceptosPOO\obj\Debug\ConceptosPOO.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\ConceptosPOO\ConceptosPOO\bin\Debug\ConceptosPOO.exe.config
+C:\Users\Administrador\source\repos\ConceptosPOO\ConceptosPOO\bin\Debug\ConceptosPOO.exe
+C:\Users\Administrador\source\repos\ConceptosPOO\ConceptosPOO\bin\Debug\ConceptosPOO.pdb
+C:\Users\Administrador\source\repos\ConceptosPOO\ConceptosPOO\obj\Debug\ConceptosPOO.exe
+C:\Users\Administrador\source\repos\ConceptosPOO\ConceptosPOO\obj\Debug\ConceptosPOO.pdb

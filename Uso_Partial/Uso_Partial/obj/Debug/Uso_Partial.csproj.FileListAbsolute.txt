@@ -1,0 +1,7 @@
+C:\Users\Administrador\source\repos\Uso_Partial\Uso_Partial\obj\Debug\Uso_Partial.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\Uso_Partial\Uso_Partial\obj\Debug\Uso_Partial.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Uso_Partial\Uso_Partial\bin\Debug\Uso_Partial.exe.config
+C:\Users\Administrador\source\repos\Uso_Partial\Uso_Partial\bin\Debug\Uso_Partial.exe
+C:\Users\Administrador\source\repos\Uso_Partial\Uso_Partial\bin\Debug\Uso_Partial.pdb
+C:\Users\Administrador\source\repos\Uso_Partial\Uso_Partial\obj\Debug\Uso_Partial.exe
+C:\Users\Administrador\source\repos\Uso_Partial\Uso_Partial\obj\Debug\Uso_Partial.pdb

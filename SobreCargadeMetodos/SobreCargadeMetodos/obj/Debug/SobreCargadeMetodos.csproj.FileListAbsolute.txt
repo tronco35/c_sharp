@@ -1,0 +1,7 @@
+C:\Users\Administrador\source\repos\SobreCargadeMetodos\SobreCargadeMetodos\bin\Debug\SobreCargadeMetodos.exe.config
+C:\Users\Administrador\source\repos\SobreCargadeMetodos\SobreCargadeMetodos\bin\Debug\SobreCargadeMetodos.exe
+C:\Users\Administrador\source\repos\SobreCargadeMetodos\SobreCargadeMetodos\bin\Debug\SobreCargadeMetodos.pdb
+C:\Users\Administrador\source\repos\SobreCargadeMetodos\SobreCargadeMetodos\obj\Debug\SobreCargadeMetodos.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\SobreCargadeMetodos\SobreCargadeMetodos\obj\Debug\SobreCargadeMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\SobreCargadeMetodos\SobreCargadeMetodos\obj\Debug\SobreCargadeMetodos.exe
+C:\Users\Administrador\source\repos\SobreCargadeMetodos\SobreCargadeMetodos\obj\Debug\SobreCargadeMetodos.pdb
